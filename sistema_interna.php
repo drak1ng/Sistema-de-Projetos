@@ -1,7 +1,7 @@
 			
 			<div class="interno-menu-lateral">
 				<br>
-				<span class="glyphicon glyphicon-education" aria-hidden="true" style="font-size:40px; color:#CAF200;"></span>
+				<span class="glyphicon glyphicon-education" aria-hidden="true" style="font-size:40px; color:#1B1D1E;"></span>
 				<br><br><br>
 				
 				<a href="./?menu=01" style="text-decoration:none;"><div class="menu-item"><span class="glyphicon glyphicon-user" aria-hidden="true"></span><br>Funcionário</div></a>

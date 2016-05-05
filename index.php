@@ -1,4 +1,4 @@
-<? include "sistema_configuracao.php"; ?>
+<?php include "sistema_configuracao.php"; ?>
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
