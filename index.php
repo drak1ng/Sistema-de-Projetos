@@ -8,6 +8,7 @@
 		<title>Projetos</title>
 		<link href="/css/bootstrap.min.css" rel="stylesheet">
 		<link href="/css/messagebox.css" rel="stylesheet">
+        <link href="/css/fileinput.min.css" rel="stylesheet">
 		<link href="/css/site.css" rel="stylesheet">
 		<!--[if lt IE 9]>
 			<script src="/js/html5shiv.min.js"></script>
@@ -16,6 +17,9 @@
 		<script src="/js/jquery.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="/js/messagebox.min.js"></script>
+        <script src="/js/fileinput.min.js"></script>
+        <script src="/js/fileinput_locale_pt-BR.js"></script>
+		<script src="//cdn.ckeditor.com/4.5.8/full/ckeditor.js"></script>
 	</head>
 	
 	<body>
